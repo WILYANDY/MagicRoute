@@ -1,0 +1,15 @@
+Elsevier Harvard 
+LATITUD DE LUGARES TURISTICOS
+CATEDRALES
+Catedral Vieja de Cuenca (-2.897842, -79.003849)
+Cataedral Inmaculada concepcion (-2.897407, -79.005347)
+San Francisco(-2.898892, -79.006294)
+Iglesia San Blas (-2.898642, -78.997793)
+Iglesia todos los santos (-2.903423, -79.001659)
+
+PARQUES
+Parque Calderon (-2.897473, -79.004488)
+Parque de la madre (-2.904233, -79.003602)
+Parque San Blas(-2.898592, -78.998567)
+Parque Paraiso (-2.910402, -78.987052)
+Parque Mirafloes/Temple (-2.883087, -78.993954)
